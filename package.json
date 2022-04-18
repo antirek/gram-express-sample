@@ -1,0 +1,24 @@
+{
+  "name": "gram-express-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antirek/gram-express-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/gram-express-sample/issues"
+  },
+  "homepage": "https://github.com/antirek/gram-express-sample#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "telegram": "^2.6.13"
+  }
+}
