@@ -13,7 +13,7 @@ const createApp = ({telegramClient}) => {
       new Api.contacts.ImportContacts({
         contacts: [
           new Api.InputPhoneContact({
-            clientId: BigInt("25798624232579869"),
+            clientId: BigInt("25798624232579389898989"),
             phone,
             firstName: "15556",
             lastName: "235556",

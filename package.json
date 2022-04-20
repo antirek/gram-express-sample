@@ -19,6 +19,7 @@
   "dependencies": {
     "config": "^3.3.7",
     "express": "^4.17.3",
+    "input": "^1.0.1",
     "telegram": "^2.6.13"
   }
 }
